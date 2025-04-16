@@ -4,7 +4,6 @@
 	"authors": [
       {
          "name": "Taki_Shiwa, edited by Sunny, re-edit by ZenFyre",
-         "id": "466968658997149706"
       }
     ],
     "semanticColors": {
