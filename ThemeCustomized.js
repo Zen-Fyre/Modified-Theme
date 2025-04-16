@@ -1,9 +1,9 @@
 {
-    "name": "ClearVision v1.2.6",
+    "name": "ClearVision ZenPE v 0.1",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
-         "name": "Taki_Shiwa, edited by Sunny",
+         "name": "Taki_Shiwa, edited by Sunny, re-edit by ZenFyre",
          "id": "466968658997149706"
       }
     ],
