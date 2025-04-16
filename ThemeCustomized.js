@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://static1.e621.net/data/09/30/09301c5cc28822117e3f2b5b7c344503.jpg",
+        "url": "https://static1.e621.net/data/7e/55/7e55a80e005925d1ea16784e6d36951b.png",
 	"alpha": 1
     },
     "plus": {
