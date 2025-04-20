@@ -517,7 +517,7 @@
     },
     "background": {
         "url": "https://static1.e621.net/data/7e/55/7e55a80e005925d1ea16784e6d36951b.png",
-	"alpha": 1
+	"alpha": 0.8
     },
     "plus": {
         "version": 0,
